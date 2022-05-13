@@ -6,4 +6,4 @@
 - 🌈 Contribution guidelines - how can the community get involved?
 - 👩‍💻 Useful resources
   - [Discussion Board](https://github.com/orgs/DataGov-SamagraX/discussions)
-  - [Issues](https://github.com/orgs/DataGov-SamagraX/issues)
+  - [Issues](https://github.com/DataGov-SamagraX/.github/issues)
